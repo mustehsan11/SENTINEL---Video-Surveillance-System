@@ -1,6 +1,7 @@
 # SENTINEL – AI Video Surveillance & Behavioral Analysis System
 
 SENTINEL is an AI-powered video surveillance system. The system utilizes YOLOv8, computer vision, and behavioral analysis techniques to automate surveillance tasks including traffic monitoring, weapon detection, and theft detection through a user-friendly Gradio interface.
+![Uploading image.png…]()
 
 ## Features
 
