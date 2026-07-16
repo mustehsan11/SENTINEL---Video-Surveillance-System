@@ -102,13 +102,6 @@ The project achieved:
 
 ---
 
-## Authors
-
-- **Syed Mustehsan Akhtar Kazmi**
-- **Laksh Kumar**
-
----
-
 ## License
 
 This project was developed for academic purposes as part of the **CT-356 Data Mining Complex Computing Problem (CCP)** at **NED University of Engineering & Technology**.
